@@ -1,0 +1,13 @@
+nav{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);   
+    gap: 30px;
+    display: flex;
+    background-color: royalblue;
+    padding: 20px;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}

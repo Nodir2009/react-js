@@ -1,0 +1,23 @@
+.login{
+    gap:20px;
+    background-color: cornflowerblue;
+}
+
+.createTasksForm{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 20px;
+ height: 200px;
+ margin: 50px;
+ padding: 20px 40px;
+}
+
+.createTasksForm > input,button{
+    padding: 10px;
+}
+.login > p{
+   text-align:right ;
+   padding-right: 20px;
+
+}

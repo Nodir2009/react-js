@@ -1,0 +1,14 @@
+.createTasks{
+    background-color:cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    height: 300px;
+    margin: 50px;
+    padding: 20px 40px;
+}
+
+.createTasks > input,button{
+    padding: 10px;
+}

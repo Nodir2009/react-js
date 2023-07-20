@@ -1,0 +1,19 @@
+.messages-table{
+    width: 60%;
+    min-width: 350px;
+    margin: 20px auto;
+  }
+  .messages-table,
+  .messages-table th,
+  .messages-table td
+  {
+   border: 2px solid blue;
+   border-collapse: collapse;
+   padding: 20px 40px;
+  }
+  .messages{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

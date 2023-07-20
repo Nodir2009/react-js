@@ -1,0 +1,11 @@
+.favorite{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+    padding: 20px 40px ;
+  }
+  
+  .Favorite-card > img{
+    width: 100%;
+  }
+  
